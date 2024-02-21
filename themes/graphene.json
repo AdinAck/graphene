@@ -78,7 +78,7 @@
         "terminal.ansi.green": "#58cc27",
         "terminal.ansi.bright_green": "#b5cea8",
         "terminal.ansi.dim_green": null,
-        "terminal.ansi.yellow": "#d7ba7d",
+        "terminal.ansi.yellow": "#d7da7d",
         "terminal.ansi.bright_yellow": "#ce9178",
         "terminal.ansi.dim_yellow": null,
         "terminal.ansi.blue": "#285dc7",
@@ -165,7 +165,7 @@
             "font_weight": null
           },
           "constant": {
-            "color": "#d04040",
+            "color": "#d04060",
             "font_style": null,
             "font_weight": null
           },
