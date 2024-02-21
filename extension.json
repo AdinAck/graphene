@@ -1,0 +1,7 @@
+{
+  "name": "Graphene Theme",
+  "version": "0.1.0",
+  "authors": ["AdinAck <adinackerman@gmail.com>"],
+  "description": "A practical dark theme for Zed.",
+  "repository": "https://github.com/adinack/graphene"
+}
