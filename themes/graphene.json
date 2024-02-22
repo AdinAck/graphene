@@ -118,7 +118,7 @@
         "info": "#9cdcfe",
         "info.background": "000040",
         "info.border": "#1e1e1e",
-        "modified": "#d7da7d",
+        "modified": "#f7da7d",
         "modified.background": null,
         "modified.border": "#1e1e1e",
         "predictive": null,
@@ -255,7 +255,7 @@
             "font_weight": null
           },
           "property": {
-            "color": "#ebdbb2ff",
+            "color": "#ebdba2ff",
             "font_style": null,
             "font_weight": null
           },
