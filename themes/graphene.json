@@ -65,6 +65,7 @@
         "editor.active_wrap_guide": null,
         "editor.document_highlight.read_background": null,
         "editor.document_highlight.write_background": null,
+        "editor.document_highlight.bracket_background": "#ffffff20",
         "terminal.background": "#1e1e1e",
         "terminal.foreground": null,
         "terminal.bright_foreground": null,
@@ -162,7 +163,7 @@
           "comment.doc": {
             "color": "#808080",
             "font_style": null,
-            "font_weight": null
+            "font_weight": 700
           },
           "constant": {
             "color": "#fa9d0e",
@@ -330,9 +331,14 @@
             "font_weight": null
           },
           "variable": {
-            "color": "#83a598ff",
-            "font_style": null,
-            "font_weight": null
+              "color": "#d0d0d0",
+              "font_style": null,
+              "font_weight": null
+          },
+          "variable.special": {
+              "color": "#83a598ff",
+              "font_style": "normal",
+              "font_weight": null
           },
           "variant": {
             "color": "#83a598ff",
