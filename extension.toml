@@ -1,7 +1,7 @@
 id = "graphene"
 name = "Graphene Theme"
 description = "A practical dark theme for Zed."
-version = "0.2.1"
+version = "0.2.2"
 schema_version = 1
 authors = ["AdinAck <adinackerman@gmail.com>"]
 repository = "https://github.com/adinack/graphene"
